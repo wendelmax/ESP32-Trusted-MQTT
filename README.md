@@ -17,10 +17,9 @@ Este projeto implementa um sistema de controle de relé usando ESP32 e MQTT, com
 ```
 .
 ├── firmware/
-│   └── basic-version/
-│       ├── publisher-web/
-│       │   └── publisher-web.ino
-│       └── subscriber-relay/
+│   ├── publisher-web/
+│   │   └── publisher-web.ino
+│   └── subscriber-relay/
 │           └── subscriber-relay.ino
 └── docs/
     ├── guia-configuracao.md
